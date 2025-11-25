@@ -58,9 +58,8 @@ Each page includes a consistent **header, footer, and navigation menu**, ensurin
 
 ## 🚀 Deployment
 
-The website is **live and accessible online** at:  
+The website is **live and accessible online**.
 
-[🔗 View Live Website]([file:///D:/WEB%20DEVELOPMENT_PLP/WEEK%208%20ASS/index.html](https://maurinechemutai.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/))
 
 ---
 
